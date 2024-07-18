@@ -1,4 +1,4 @@
-##Instagram Clone Uygulaması
+## Instagram Clone Uygulaması
 
 Herkese Selamlar!
 
